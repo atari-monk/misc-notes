@@ -5,3 +5,4 @@
 ### Review
 
 - [Movie](review/movie.md)
+- [Video](review/video.md)
