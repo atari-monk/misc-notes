@@ -5,7 +5,6 @@
 ### Trasa rowerowa
 
 - [Do Wisły](bicycle-route/to-the-vistula/to-the-vistula.md)
-- [Szablon trasy rowerowej](bicycle-route/template.md)
 
 ### Link
 

@@ -5,7 +5,6 @@
 ### Bicycle Route
 
 - [To The Vistula](bicycle-route/to-the-vistula/to-the-vistula.md)
-- [Bicycle Route Template](bicycle-route/template.md)
 
 ### Link
 
