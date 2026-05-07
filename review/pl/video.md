@@ -1,6 +1,6 @@
-# Recenzja Wideo
-
 [en](../video.md)
+
+# Recenzja Wideo
 
 ## Treść <a id="toc"></a>
 - [Kochać i Być Kochanym](#human-desire)
