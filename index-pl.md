@@ -4,7 +4,7 @@
 
 ### Trasa Rowerowa
 
-- [Do Wisły](bicycle-route/to-the-vistula/to-the-vistula.md)
+- [Do Wisły](bicycle-route/to-the-vistula.md)
 
 ### Link
 

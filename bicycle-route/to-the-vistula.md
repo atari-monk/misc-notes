@@ -2,7 +2,7 @@
 
 ### Contents
 
-- [Bicycle Route Instruction](../instruction.md)
+- [Bicycle Route Instruction](instruction.md)
 - [Points](#points)
 - [Map](#map)
 - [Stats](#stats)
@@ -52,21 +52,21 @@ List of route points for google map
 
 ### Map
 
-![map01](to-the-vistula-01.png)
+![map01](images/to-the-vistula-01.png)
 
-![map02](to-the-vistula-02.png)
+![map02](images/to-the-vistula-02.png)
 
-![map03](to-the-vistula-03.png)
+![map03](images/to-the-vistula-03.png)
 
-![map04](to-the-vistula-04.png)
+![map04](images/to-the-vistula-04.png)
 
-![map05](to-the-vistula-05.png)
+![map05](images/to-the-vistula-05.png)
 
-![map06](to-the-vistula-06.png)
+![map06](images/to-the-vistula-06.png)
 
-![map07](to-the-vistula-07.png)
+![map07](images/to-the-vistula-07.png)
 
-![map08](to-the-vistula-08.png)
+![map08](images/to-the-vistula-08.png)
 
 [Contents](#contents)
 
