@@ -2,6 +2,10 @@
 
 ## Indeks
 
+### Trasa rowerowa
+
+- [Szablon trasy rowerowej](bicycle-route/template.md)
+
 ### Link
 
 - [Humanistyka](link/humanities.md)

@@ -2,6 +2,10 @@
 
 ## Index
 
+### Bicycle Route
+
+- [Bicycle Route Template](bicycle-route/template.md)
+
 ### Link
 
 - [Humanities](link/humanities.md)
