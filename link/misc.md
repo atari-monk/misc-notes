@@ -7,6 +7,8 @@
         - [Rusty78609](#rusty78609)
 - [Workout](#workout)
 - [Comedy](#comedy)
+    - [Tim Dillon](#tim-dillon)
+    - [Norm Macdonald](#norm-macdonald)
 - [Gaming](#gaming)
 - [Blender](#blender)
 
@@ -36,8 +38,21 @@
 #### Comedy
 
 - [The Benny Hill Show](https://youtube.com/playlist?list=PLIzPIt2RVnlpznsQVN2Lsc7ZZM-jHgnDv)
-- Tim Dillon
-    - [Prigozhin Eras Tour The Tim Dillon Show #358](https://youtu.be/LdelkZk3YM8?si=IkyUfrCRCkS0Gyvf)
+
+##### Tim Dillon
+
+- [Prigozhin Eras Tour The Tim Dillon Show #358](https://youtu.be/LdelkZk3YM8?si=IkyUfrCRCkS0Gyvf)
+
+##### Norm Macdonald
+
+- [“Dirty Johnny” Joke (2016)](https://youtu.be/4gshCmZVAV8)
+- [“Dirty Johnny” on Podcast](https://youtu.be/GskNV_XRZvU)
+- [Kojak & Prostitutes](https://youtu.be/PMt7C3COiVM)
+- [Frost vs Nixon](https://youtu.be/ckHQhxQ13PA)
+- [The Professor of Logic](https://youtu.be/hh3TI3iMb1E)
+- [Midget Joke](https://youtu.be/KzVGRlfE5Gs)
+- [Gilbert Gottfried Full Podcast](https://youtu.be/o6_Tjw_VLUk)
+- [I'm not Norm](https://www.youtube.com/@ImnotNorm)
 
 #### Gaming
 
