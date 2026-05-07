@@ -2,7 +2,7 @@
 
 ## Indeks
 
-### Trasa rowerowa
+### Trasa Rowerowa
 
 - [Do Wisły](bicycle-route/to-the-vistula/to-the-vistula.md)
 
@@ -12,7 +12,7 @@
 - [Różne](link/misc.md)
 - [Muzyka](link/music.md)
 - [Programowanie](link/programming.md)
-- [Scena](link/scene.md)
+- [Scena Filmowa](link/scene.md)
 
 ### Recenzja
 

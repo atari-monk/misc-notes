@@ -12,7 +12,7 @@
 - [Misc](link/misc.md)
 - [Music](link/music.md)
 - [Programming](link/programming.md)
-- [Scene](link/scene.md)
+- [Movie Scene](link/scene.md)
 
 ### Review
 
