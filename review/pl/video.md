@@ -14,6 +14,6 @@ bo wtedy łatwo zamieniają się w zależność, oczekiwania i rozczarowanie.
 Wewnętrzna stabilność pozwala tworzyć więzi, które nie są próbą zapełnienia pustki,  
 lecz dzieleniem się tym, co w nas pełne — spokojem, czułością, obecnością i naturalną chęcią dawania, a nie potrzebą brania.
 
-Podoba mi się ten wyciek ze sztucznej inteligencji.
+Podobają mi się te pomyje AI.  
 
 [Treść](#toc)
