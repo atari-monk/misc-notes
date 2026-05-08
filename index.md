@@ -6,6 +6,7 @@
 
 - [To The Vistula](bicycle-route/to-the-vistula.md)
 - [Vistula and Old City](bicycle-route/vistula-old-city.md)
+- [Parks Nearby](bicycle-route/parks-nearby.md)
 
 ### Link
 
