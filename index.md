@@ -7,6 +7,7 @@
 - [To The Vistula](bicycle-route/to-the-vistula.md)
 - [Vistula and Old City](bicycle-route/vistula-old-city.md)
 - [Parks Nearby](bicycle-route/parks-nearby.md)
+- [Aviators Park](bicycle-route/aviators-park.md)
 
 ### Link
 

@@ -7,6 +7,7 @@
 - [Do Wisły](bicycle-route/to-the-vistula.md)
 - [Wisła i Stare Miasto](bicycle-route/vistula-old-city.md)
 - [Parki w pobliżu](bicycle-route/parks-nearby.md)
+- [Park Lotników](bicycle-route/aviators-park.md)
 
 ### Link
 
