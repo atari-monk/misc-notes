@@ -74,8 +74,8 @@ List of route points for google map
 
 - Time: 18 min
 - Length: 4.9 km
-- 13m uphill
-- 31m downhill
+- 13 m uphill
+- 31 m downhill
 
 [Contents](#contents)
 

@@ -45,8 +45,8 @@ List of route points for google map
 
 - Time: x min
 - Length: x km
-- xm uphill
-- xm downhill
+- x m uphill
+- x m downhill
 
 #### Trip
 

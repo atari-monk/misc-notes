@@ -5,6 +5,7 @@
 ### Bicycle Route
 
 - [To The Vistula](bicycle-route/to-the-vistula.md)
+- [Vistula and Old City](bicycle-route/vistula-old-city.md)
 
 ### Link
 
