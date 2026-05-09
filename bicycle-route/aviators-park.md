@@ -9,7 +9,7 @@ First do [To The Vistula](to-the-vistula.md)
 - [Map](#map)
 - [Stats](#stats)
 - [Trip](#trip)
-    - [yyyy-mm-dd](#yyyy-mm-dd)
+    - [2026-05-09](#2026-05-09)
 
 #### Points
 
@@ -79,11 +79,20 @@ List of route points for google map
 
 #### Trip
 
-##### yyyy-mm-dd 
+##### 2026-05-09 
 
-- Start: hh:mm
-- Temperature: x Celsius
+- Start: 12:00
+- Temperature: 14 Celsius
+- Notes:
+    - Quite slow ride in parks, but i like trees.  
+    - Took some fotos.  
 
-Note
+![foto01](images/aviators-park-2026-05-09-01.jpg)
+
+![foto02](images/aviators-park-2026-05-09-02.jpg)
+
+![foto03](images/aviators-park-2026-05-09-03.jpg)
+
+![foto04](images/aviators-park-2026-05-09-04.jpg)
 
 [Contents](#contents)

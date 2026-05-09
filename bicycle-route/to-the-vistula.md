@@ -8,6 +8,7 @@
 - [Stats](#stats)
 - [Trip](#trip)
     - [2026-05-04](#2026-05-04)
+    - [2026-05-09](#2026-05-09)
 
 #### Points
 
@@ -85,8 +86,15 @@ List of route points for google map
 
 - Start: 18:00
 - Temp: 23 Celcius
+- Notes:
+    - One of the fastest, best bicycle route in this city.  
+    - Watch out for trams.  
 
-One of the fastest, best bicycle route in this city.  
-Watch out for trams.  
+#### 2026-05-09
+
+- Start: 12:00
+- Temp: 14 Celcius
+- Notes:
+    - Plastic anti rain coat makes you wet, better wear normal coat.  
 
 [Contents](#contents)

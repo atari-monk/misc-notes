@@ -54,7 +54,7 @@ List of route points for google map
 
 - Start: hh:mm
 - Temperature: x Celsius
-
-Note
+- Notes:
+    - Note1
 
 [Contents](#contents)
